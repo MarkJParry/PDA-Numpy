@@ -1,5 +1,6 @@
 # PDA-Numpy
-Repository for Fundamentals of Data Analysis Module of the GMIT Higher Diploma in Data Analytics Course 2021  
+Repository for Programming for Data Analysis Module of the GMIT Higher Diploma in Data Analytics Course 2021  
+<br>  
 Programming for Data Analysis - numpy.random assesment
 
 Student: Mark Parry G00398271
@@ -7,7 +8,7 @@ Student: Mark Parry G00398271
 This repository contains the following notebooks:
 |Document       |Description                                                                                                       |Date Added|
 |---------------|------------------------------------------------------------------------------------------------------------------|----------|
-|numpy.random|asssesment jupyter note book |21/09/2021
+|numpy-random|asssesment jupyter note book |14/10/2021
 
 
 To view notebooks without interacting with them[^1]
