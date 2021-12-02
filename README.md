@@ -31,43 +31,34 @@ Available at:https://mybinder.org/, Accessed (Sept 2021)
 
 # **Bibliography**
 
-|Article|Year|Site|Available at|Accessed|
-|-------|----|----|------------|--------|
-
-Numpy-Random References
-            <DT><A HREF="https://numpy.org/doc/stable/reference/random/generator.html#simple-random-data" ADD_DATE="1635449656" Random Generator — NumPy v1.21 Manual</A>
-            <DT><A HREF="https://numpy.org/doc/stable/reference/random/generated/numpy.random.bytes.html?highlight=random%20bytes#numpy.random.bytes" ADD_DATE="1635449656" numpy.random.bytes — NumPy v1.21 Manual</A>
-            Random Number -- from Wolfram MathWorld</A>
-            <DT><A HREF="https://noosphere.princeton.edu/introduction.html" ADD_DATE="1635449656" Global Consciousness Project: Introduction</A>
-            <DT><A HREF="https://numpy.org/doc/stable/reference/random/generator.html#simple-random-data" ADD_DATE="1635449656" Random Generator — NumPy v1.21 Manual</A>
-            <DT><A HREF="https://www.random.org/quotations/" ADD_DATE="1635449656" RANDOM.ORG - Quotations about Randomness</A>
-            <DT><A HREF="https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/#h2_4" ADD_DATE="1634316866" IProbability Distribution | Types of Distributions</A>
-            <DT><A HREF="https://en.wikipedia.org/wiki/Randomness" ADD_DATE="1636037882" Randomness - Wikipedia</A>
-            Pascal&#39;s Marble Run</A>
-            <DT><A HREF="https://courses.lumenlearning.com/odessa-introstats1-1/chapter/the-uniform-distribution/" ADD_DATE="1636893826" >The Uniform Distribution | Introduction to Statistics</A>
-            <DT><A HREF="https://www.datacamp.com/community/tutorials/probability-distributions-python" ADD_DATE="1636917619" Probability Distributions in Python Tutorial - DataCamp</A>
-            <DT><A HREF="https://towardsdatascience.com/modelling-the-probability-distributions-of-dice-b6ecf87b24ea" ADD_DATE="1636917739" Modelling the probability distributions of dice | by Tom Leyshon | Towards Data Science</A>
-            <DT><A HREF="https://numpy.org/doc/stable/reference/random/index.html#random-quick-start" ADD_DATE="1636924792" Random sampling (numpy.random) — NumPy v1.21 Manual</A>
-            <DT><A HREF="https://www.statology.org/the-normal-distribution/" ADD_DATE="1637088899" The Normal Distribution - Statology</A>
-            <DT><A HREF="https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459" ADD_DATE="1637101727" The Poisson Distribution and Poisson Process Explained | by Will Koehrsen | Towards Data Science</A>
-            <DT><H3 ADD_DATE="1637101851" LAST_MODIFIED="1637101989">Statology</H3>
-            <DL><p>
-                <DT><A HREF="https://www.statology.org/geometric-distribution/" ADD_DATE="1637101884" An Introduction to the Geometric Distribution - Statology</A>
-                <DT><A HREF="https://www.statology.org/geometric-distribution-real-life-examples/" ADD_DATE="1637101903" 5 Real-Life Examples of the Geometric Distribution</A>
-                <DT><A HREF="https://www.statology.org/example-of-normal-distribution/" ADD_DATE="1637101913" 6 Real-Life Examples of the Normal Distribution</A>
-                <DT><A HREF="https://www.statology.org/binomial-distribution-real-life-examples/" ADD_DATE="1637101921" 5 Real-Life Examples of the Binomial Distribution</A>
-                <DT><A HREF="https://www.statology.org/uniform-distribution-real-life-examples/" ADD_DATE="1637101928" 5 Real-Life Examples of the Uniform Distribution - Statology</A>
-                <DT><A HREF="https://www.statology.org/poisson-distribution-calculator/" ADD_DATE="1637101937" Poisson Distribution Calculator - Statology</A>
-                <DT><A HREF="https://www.statology.org/poisson-distribution-real-life-examples/" ADD_DATE="1637101942" 5 Real-Life Examples of the Poisson Distribution</A>
-                <DT><A HREF="https://www.statology.org/poisson-distribution/" ADD_DATE="1637101950" An Introduction to the Poisson Distribution - Statology</A>
-                <DT><A HREF="https://www.statology.org/binomial-distribution/" ADD_DATE="1637101956" An Introduction to the Binomial Distribution - Statology</A>
-                <DT><A HREF="https://www.statology.org/triangular-distribution/" ADD_DATE="1637101975" An Introduction to the Triangular Distribution - Statology</A>
-            </DL><p>
-            <DT><A HREF="https://en.wikipedia.org/wiki/Central_limit_theorem" ADD_DATE="1637101989" Central limit theorem - Wikipedia</A>
-            <DT><A HREF="https://statisticsbyjim.com/probability/poisson-distribution/" ADD_DATE="1637179151" Poisson Distribution - Statistics By Jim</A>
-            <DT><A HREF="https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6" ADD_DATE="1637451805" Interactive Controls in Jupyter Notebooks | by Will Koehrsen | Towards Data Science</A>
-            <DT><A HREF="https://machinelearningmastery.com/statistical-data-distributions/" ADD_DATE="1637526400" A Gentle Introduction to Statistical Data Distributions</A>
-			Jupyter Notebook Users Manual.ipynb</A>
-            <DT><A HREF="https://people.richland.edu/james/lecture/m113/binomial.html" ADD_DATE="1637539941" Binomial Probabilities</A>
-            <DT><A HREF="https://datascience-enthusiast.com/R/pareto_distributions.html" ADD_DATE="1637603500">theoretical_pareto_distributions.utf8</A>
-
+|Article|Site|Available at|Accessed|
+|-------|----|------------|--------|
+|Random Generator — NumPy v1.21 Manual|numpy.org|"https://numpy.org/doc/stable/reference/random/generator.html#simple-random-data"|("Thu Oct 28 20:34:16 2021")|
+|numpy.random.bytes — NumPy v1.21 Manual|numpy.org|"https://numpy.org/doc/stable/reference/random/generated/numpy.random.bytes.html?highlight=random%20bytes#numpy_random.bytes"|("Thu Oct 28 20:34:16 2021")|
+|Global Consciousness Project: Introduction|noosphere.princeton.edu|"https://noosphere.princeton.edu/introduction.html"|("Thu Oct 28 20:34:16 2021")|
+|Random Generator — NumPy v1.21 Manual|numpy.org|"https://numpy.org/doc/stable/reference/random/generator.html#simple-random-data"|("Thu Oct 28 20:34:16 2021")|
+|RANDOM.ORG - Quotations about Randomness|www.random.org|"https://www.random.org/quotations/"|("Thu Oct 28 20:34:16 2021")|
+|Probability Distribution | Types of Distributions|www.analyticsvidhya.com|"https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/#h2_4"|("Fri Oct 15 17:54:26 2021")|
+|Randomness - Wikipedia|en.wikipedia.org|"https://en.wikipedia.org/wiki/Randomness"|("Fri Oct 15 17:54:26 2021")|
+|The Uniform Distribution - Introduction to Statistics|courses.lumenlearning.com|"https://courses.lumenlearning.com/odessa-introstats1-1/chapter/the-uniform-distribution/"|("Sun Nov 14 12:43:46 2021")|
+|Probability Distributions in Python Tutorial - DataCamp|www.datacamp.com|"https://www.datacamp.com/community/tutorials/probability-distributions-python"|("Sun Nov 14 19:20:19 2021")|
+|Modelling the probability distributions of dice-by Tom Leyshon-Towards Data Science|towardsdatascience.com|"https://towardsdatascience.com/modelling-the-probability-distributions-of-dice-b6ecf87b24ea"|("Sun Nov 14 19:22:19 2021")|
+|Random sampling (numpy.random) — NumPy v1.21 Manual|numpy.org|"https://numpy.org/doc/stable/reference/random/index.html#random-quick-start"|("Sun Nov 14 21:19:52 2021")|
+|The Normal Distribution - Statology|www.statology.org|"https://www.statology.org/the-normal-distribution/"|("Tue Nov 16 18:54:59 2021")|
+|The Poisson Distribution and Poisson Process Explained-by Will Koehrsen -Towards Data Science|towardsdatascience.com|"https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459"|("Tue Nov 16 22:28:47 2021")|
+|An Introduction to the Geometric Distribution - Statology|www.statology.org|"https://www.statology.org/geometric-distribution/"|("Tue Nov 16 22:31:24 2021")|
+|5 Real-Life Examples of the Geometric Distribution|www.statology.org|"https://www.statology.org/geometric-distribution-real-life-examples/"|("Tue Nov 16 22:31:43 2021")|
+|6 Real-Life Examples of the Normal Distribution|www.statology.org|"https://www.statology.org/example-of-normal-distribution/"|("Tue Nov 16 22:31:53 2021")|
+|5 Real-Life Examples of the Binomial Distribution|www.statology.org|"https://www.statology.org/binomial-distribution-real-life-examples/"|("Tue Nov 16 22:32:01 2021")|
+|5 Real-Life Examples of the Uniform Distribution - Statology|www.statology.org|"https://www.statology.org/uniform-distribution-real-life-examples/"|("Tue Nov 16 22:32:08 2021")|
+|Poisson Distribution Calculator - Statology|www.statology.org|"https://www.statology.org/poisson-distribution-calculator/"|("Tue Nov 16 22:32:17 2021")|
+|5 Real-Life Examples of the Poisson Distribution|www.statology.org|"https://www.statology.org/poisson-distribution-real-life-examples/"|("Tue Nov 16 22:32:22 2021")|
+|An Introduction to the Poisson Distribution - Statology|www.statology.org|"https://www.statology.org/poisson-distribution/"|("Tue Nov 16 22:32:30 2021")|
+|An Introduction to the Binomial Distribution - Statology|www.statology.org|"https://www.statology.org/binomial-distribution/"|("Tue Nov 16 22:32:36 2021")|
+|An Introduction to the Triangular Distribution - Statology|www.statology.org|"https://www.statology.org/triangular-distribution/"|("Tue Nov 16 22:32:55 2021")|
+|Central limit theorem - Wikipedia|en.wikipedia.org|"https://en.wikipedia.org/wiki/Central_limit_theorem"|("Tue Nov 16 22:33:09 2021")|
+|Poisson Distribution - Statistics By Jim|statisticsbyjim.com|"https://statisticsbyjim.com/probability/poisson-distribution/"|("Wed Nov 17 19:59:11 2021")|
+|Interactive Controls in Jupyter Notebooks-by Will Koehrsen-Towards Data Science|towardsdatascience.com|"https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6"|("Sat Nov 20 23:43:25 2021")|
+|A Gentle Introduction to Statistical Data Distributions|machinelearningmastery.com|"https://machinelearningmastery.com/statistical-data-distributions/"|("Sun Nov 21 20:26:40 2021")|
+|Binomial Probabilities|people.richland.edu|"https://people.richland.edu/james/lecture/m113/binomial.html"|("Mon Nov 22 00:12:21 2021")|
+|theoretical_pareto_distributions|datascience-enthusiast.com|"https://datascience-enthusiast.com/R/pareto_distributions.html"|("Mon Nov 22 17:51:40 2021")|
