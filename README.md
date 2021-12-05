@@ -1,5 +1,5 @@
 # PDA-Numpy
-Repository for Programming for Data Analysis Module of the GMIT Higher Diploma in Data Analytics Course 2021  
+Repository for the Programming for Data Analysis Module of the GMIT Higher Diploma in Data Analytics Course 2021  
 <br>  
 Programming for Data Analysis - numpy.random assignment
 
@@ -10,7 +10,9 @@ This repository contains the following notebooks:
 |-|-|-|
 |numpy-random|assignment jupyter note book |14/10/2021|
 
+*** 
 
+# Using this notebook
 To view notebooks without interacting with them[^1]
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/MarkJParry/PDA-Numpy/tree/main/)
 
@@ -18,8 +20,29 @@ To view notebooks without interacting with them[^1]
 To view and interact with notebooks[^2]
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarkJParry/PDA-Numpy/HEAD)
 
+Alternatively it can be downloaded to your machine.
+You will need to install either anaconda or python on your machine.
+
+Anaconda is available here https://www.anaconda.com/products/individual Please not ttah this is a large download and includes python.
+
+Python can be downloaded from here https://www.python.org/downloads/ if you do not wish to use anaconda.
+<br>
+You may need to run pip install for the following python packages depending on your download choice.
+	numpy				- a python module that specializes in arrays and random numbers
+	matplotlib.pyplot 	- a module to visualize findings in charts, plots, etc
+	import seaborn 		- makes plots prettier sits on top of pyplot
+	PIL 				- manipulate, resize and display images
+	ipywidgets  		- used to allow user interaction with the cells in the notebook
+	
+***   
+
+
+
 # Overview
-The numpy-random notebook is for the assignment for this module. It is not an attempt at a tutorial or an in-depth discussion of any of the features of the package( which is best left to the experts), moreover it is a quick overview of what is available in the package, how to use it, brief explanations of their purpose, illustrations of their use and where to go for further information. It covers five statistical distributions in more depth namely uniform,triangular,binomial,normal and pareto. It attempts to use rolling dice and playing cards to demonstrate these distribution in action and there is a gallery of images in the Image folder for that purpose. 
+The numpy-random notebook is for the assignment for this module. It is not an attempt at a tutorial or an in-depth discussion of all of the features of the package, moreover it is a quick overview of what is available in the package, how to use it, brief explanations of their purpose, illustrations of their use and where to go for further information. It covers five statistical distributions in more depth namely uniform,triangular,binomial,normal and pareto. It attempts to use rolling dice and playing cards to demonstrate these distributions in action and there is a gallery of images in the Image folder for that purpose. 
+
+***
+
 
 # References
 Please note all references used in the notebook are referenced in the notebook itself.   
@@ -29,6 +52,7 @@ Available at:https://github.com/jupyter/nbviewer/issues/714, Accessed (Sept 2021
 [^2]:'Binder',(2021),*www.binder.org*,
 Available at:https://mybinder.org/, Accessed (Sept 2021)
 
+***   
 
 # **Bibliography**
 
@@ -63,3 +87,7 @@ Available at:https://mybinder.org/, Accessed (Sept 2021)
 |A Gentle Introduction to Statistical Data Distributions|machinelearningmastery.com|"https://machinelearningmastery.com/statistical-data-distributions/"|("Sun Nov 21 20:26:40 2021")|
 |Binomial Probabilities|people.richland.edu|"https://people.richland.edu/james/lecture/m113/binomial.html"|("Mon Nov 22 00:12:21 2021")|
 |theoretical_pareto_distributions|datascience-enthusiast.com|"https://datascience-enthusiast.com/R/pareto_distributions.html"|("Mon Nov 22 17:51:40 2021")|
+
+***   
+
+# End
